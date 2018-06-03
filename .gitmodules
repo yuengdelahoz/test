@@ -1,3 +1,6 @@
 [submodule "test"]
 	path = test
 	url = git@gitlab.com:ysdelahoz/test.git
+[submodule "FallPreventionAndroid"]
+	path = FallPreventionAndroid
+	url = git@github.com:yuengdelahoz/FallPreventionAndroid.git
